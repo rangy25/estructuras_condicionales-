@@ -11,6 +11,14 @@ y= valor de la coordenada
 
 variables de proceso y salida (processing, storange, output)
 
+origen
+eje x
+eje y 
+cuadrante 1
+cuadrante 2 
+cuadrante 3
+cuadrante 4
+
 # DISEÑO 
 
 ![diagrama de flujo](diagrama.png "diagrama de flujo")
