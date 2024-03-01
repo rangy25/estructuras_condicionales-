@@ -8,5 +8,7 @@ deuda = input( " ud tiene otra deuda que no ha pagado (si o no) : ")
 if salario >= 945200:
     if deuda == "no":
         print("su prestamo ha sido aprobado")
-else:
-    print("su prestamo ha sido denegado")
+    else:
+        print("su prestamo ha sido denegado")
+elif salario <945200:
+    print( " su prestamo ha sido denegado ")
